@@ -1,0 +1,13 @@
+{
+  "name": "inky",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Roberto Sosa",
+  "dependencies": {
+    "browser-sync": "^2.12.5",
+    "gulp": "^3.9.1",
+    "gulp-inline-css": "^3.3.0",
+    "inky": "^1.3.7"
+  }
+}
